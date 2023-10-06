@@ -1,7 +1,7 @@
 
 ## 👋 Hi, I’m 柒木
 
-- 🏡 作品：<a href="https://qimuu.icu" target="_blank">聚交园</a>
+- 🏡 作品：<a href="https://qimuu.icu" target="_blank">聚交园</a> | <a href="https://api.qimuu.icu/" target="_blank">Qi-API 接口开放平台</a>
 - 💬 微信：aqimu66（请备注事由）
 - 📩 邮箱：2483482026@qq.com
 - 📝 个人博客：<a href="https://www.cnblogs.com/qimu666" target="_blank">柒木木木</a>
